@@ -1,7 +1,7 @@
 # Opinion Consensus and Polarization Dynamics: Mathematical Modeling and Numerics
 
 ## Overview
-[cite_start]This repository contains the Bachelor's Degree Thesis, presentation slides, and simulation code for the project **"Mathematical modeling and numerics of opinion consensus and polarization dynamics"** by Bruno Fernández Carballo (2026), supervised by Gissell Estrada-Rodriguez at UPC FME[cite: 561, 562, 563, 564, 565, 566]. The project investigates the application of kinetic theory, specifically the Boltzmann equation, to model social opinion dynamics. It utilizes the Direct Simulation Monte Carlo (DSMC) method, specifically the Nanbu-Babovsky scheme, to simulate opinion exchanges among interacting agents.
+This repository contains the Bachelor's Degree Thesis, presentation slides, and simulation code for the project **"Mathematical modeling and numerics of opinion consensus and polarization dynamics"** by Bruno Fernández Carballo (2026), supervised by Gissell Estrada-Rodriguez at UPC FME. The project investigates the application of kinetic theory, specifically the Boltzmann equation, to model social opinion dynamics. It utilizes the Direct Simulation Monte Carlo (DSMC) method, specifically the Nanbu-Babovsky scheme, to simulate opinion exchanges among interacting agents.
 
 ## Repository Contents
 
