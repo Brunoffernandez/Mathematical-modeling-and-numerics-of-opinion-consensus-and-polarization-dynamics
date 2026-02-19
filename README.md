@@ -12,7 +12,7 @@ The main Bachelor's Degree Thesis document. It provides a comprehensive theoreti
 * **Numerical Methods:** Development and implementation of Direct Simulation Monte Carlo (DSMC) algorithms for the homogeneous Boltzmann equation.
 
 ### 2. `TFG_Bruno_MCMC_for_opinions (4).pdf`
-[cite_start]The presentation slides for the thesis defense[cite: 73, 74]. The slides outline the project's structure and summarize key concepts:
+The presentation slides for the thesis defense. The slides outline the project's structure and summarize key concepts:
 * **Motivation:** Connecting the microscopic, mesoscopic, and macroscopic scales of dynamics.
 * **Theory:** An overview of the kinetic theory of gases and its translation to opinion dynamics.
 * **Numerics:** Introduction to the Kac equation and the step-by-step logic of the Nanbu-Babovsky algorithm.
